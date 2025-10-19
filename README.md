@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Tee Kai Heng, a Software System Development student at TARUMT. <br>I’m more comfortable working on the back-end and have a growing interest in system security. <br>I enjoy learning new technologies and improving my skills through hands-on projects.n<br>I like exploring how things work behind the scenes and finding ways to make systems run safely and efficiently.
+I’m Tee Kai Heng, a Software System Development student at TARUMT. <br>I’m more comfortable working on the back-end and have a more interest in system security. <br>I enjoy learning new technologies and improving my skills through hands-on projects.n<br>I like exploring how things work behind the scenes and finding ways to make systems run safely and efficiently.
 
 
 ## 🌐 Socials:
