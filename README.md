@@ -20,6 +20,6 @@ I’m Tee Kai Heng, a Software System Development student at TARUMT. <br>I’m m
 ![](https://github-contributor-stats.vercel.app/api?username=ahheng0813&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ahheng0813&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ahheng0813&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
