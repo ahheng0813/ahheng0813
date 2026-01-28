@@ -12,6 +12,10 @@ I’m Tee Kai Heng, a Software System Development student at TARUMT. <br>I’m m
 ![](https://github-readme-stats.vercel.app/api?username=ahheng0813&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ahheng0813&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahheng0813&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br>
+	<a href="https://github.com/Platane/snk">
+		<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+	</a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ahheng0813&theme=radical&no-frame=false&no-bg=false&margin-w=4)
