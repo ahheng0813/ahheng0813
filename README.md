@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=CCFF00&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+AhHeng;Developer+from+Malaysia;I'm+Currently+Working+As+A+FullStack+Dev)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=CCFF00&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+AhHeng;A+Developer+from+Malaysia;Currently+Working+As+A+FullStack+Dev)
 
 <!-- GitCity -->
 <p align="center">
