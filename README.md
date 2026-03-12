@@ -30,8 +30,7 @@ I’m Tee Kai Heng, a Software System Development student at TARUMT. <br>I’m m
 <br>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-[![wakatime](https://wakatime.com/badge/github/ahheng0813/ahheng0813.svg)](https://wakatime.com/badge/github/ahheng0813/ahheng0813)
-
+[![wakatime](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io.svg)](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io)
 <figure><embed src="https://wakatime.com/share/@bce690d2-17e6-4840-b85b-f2fa3093c0a8/47755d12-36c4-49ec-89e2-92846b8e1c1d.svg"></embed></figure>
 
 
