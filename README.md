@@ -2,12 +2,9 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=CCFF00&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+AhHeng;A+Developer+from+Malaysia;Currently+Working+As+A+FullStack+Dev)
 
-<!-- GitCity -->
-<p align="center">
-  <a href="https://www.thegitcity.com/dev/ahheng0813">
+<a href="https://www.thegitcity.com/dev/ahheng0813">
 	<img src="https://www.thegitcity.com/dev/ahheng0813/opengraph-image" width="600" alt="ahheng0813 - Git City"/>
 </a>
-</p>
 
 <br>
 
@@ -16,7 +13,7 @@ I’m Tee Kai Heng, a Software System Development student at TARUMT. <br>I’m m
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://my.linkedin.com/in/tee-kai-heng-245a9b297?trk=people-guest_people_search-card) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://my.linkedin.com/in/tee-kai-heng-245a9b297?trk=people-guest_people_search-card) 
  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AhHengYT) 
 
 # 💻 Tech Stack:
@@ -39,6 +36,6 @@ I’m Tee Kai Heng, a Software System Development student at TARUMT. <br>I’m m
 ---
 [![](https://visitcount.itsvg.in/api?id=ahheng0813&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahheng0813)
 
 </div>
