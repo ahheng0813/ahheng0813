@@ -16,4 +16,4 @@ jobs:
         uses: anmol098/waka-readme-stats@master
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+          GITHUB_TOKEN: ${{ secrets.WAKATIME_GH_KEY }}
