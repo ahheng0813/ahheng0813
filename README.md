@@ -50,6 +50,6 @@ I’m Tee Kai Heng, a Software System Development student at TARUMT. <br>I’m m
 </p>
 
 # Contribution Graph:
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahheng0813&bg_color=0d1117&color=4caf50&line=30363d&point=4caf50&area=013220)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahheng0813&bg_color=0d1117&color=90ee90&line=90ee90&point=006400&area=013220)
 
 </div>
