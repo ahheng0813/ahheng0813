@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Update WakaTime stats
-        uses: anmol098/waka-readme-stats@master
+        uses: AhHeng/waka-readme-stats-profile@master
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.WAKATIME_GH_KEY }}
