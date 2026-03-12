@@ -46,10 +46,9 @@ I’m Tee Kai Heng, a Software System Development student at TARUMT. <br>I’m m
 ![Visitor Count](https://komarev.com/ghpvc/?username=ahheng0813&color=brightgreen)
 
 <p align="center">
-<a href="https://clustrmaps.com/site/1c9fk"  title="ClustrMaps"><img src="https://www.clustrmaps.com/map_v2.png?d=sMLxx5lhZhR-z0H_zI6ojFrU61NGZihlaNnLpGlpar0&cl=ffffff" />
+<a href="https://clustrmaps.com/site/1c9fk"  title="ClustrMaps"><img src="https://www.clustrmaps.com/map_v2.png?d=sMLxx5lhZhR-z0H_zI6ojFrU61NGZihlaNnLpGlpar0&cl=ffffff" /> 	<!--<script type="text/javascript" id="clstr_globe" src="https://clustrmaps.com/globe.js?d=sMLxx5lhZhR-z0H_zI6ojFrU61NGZihlaNnLpGlpar0"></script>-->
+
 </a>
-	
-	<!--<script type="text/javascript" id="clstr_globe" src="https://clustrmaps.com/globe.js?d=sMLxx5lhZhR-z0H_zI6ojFrU61NGZihlaNnLpGlpar0"></script>-->
 </p>
 
 # Contribution Graph:
