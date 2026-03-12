@@ -30,6 +30,8 @@ I’m Tee Kai Heng, a Software System Development student at TARUMT. <br>I’m m
 <br>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+![Most Used Languages](https://wakatime.com/share/github/ahheng0813/repo.svg)
+![Coding Activity](https://wakatime.com/share/github/ahheng0813/activity.svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ahheng0813&theme=radical&no-frame=false&no-bg=false&margin-w=4)
