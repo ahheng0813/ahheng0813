@@ -26,6 +26,7 @@ I’m Tee Kai Heng, a Software System Development student at TARUMT. <br>I’m m
 	<a href="https://github.com/Platane/snk">
 ![snake gif](https://github.com/ahheng0813/ahheng0813/blob/output/github-contribution-grid-snake.svg)	
 </a>
+
 <br>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -38,6 +39,12 @@ I’m Tee Kai Heng, a Software System Development student at TARUMT. <br>I’m m
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ahheng0813&icon=2&color=1)](https://visitcount.itsvg.in)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ahheng0813&color=brightgreen)
+
+<p align="center">
+  <img src="https://clustrmaps.com/map_v2.png?d=YOUR_ID" />
+</p>
 
 # Contribution Graph:
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahheng0813)
