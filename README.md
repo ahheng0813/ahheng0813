@@ -29,15 +29,15 @@ I’m Tee Kai Heng, a Software System Development student at TARUMT. <br>I’m m
 
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-120%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 406.1 kB Used in GitHub's Storage 
+> 📦 406.2 kB Used in GitHub's Storage 
  > 
-> 🏆 199 Contributions in the Year 2026
+> 🏆 268 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,21 +48,21 @@ I’m Tee Kai Heng, a Software System Development student at TARUMT. <br>I’m m
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                920 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-🌆 Daytime                1705 commits        ███████░░░░░░░░░░░░░░░░░░   26.36 % 
-🌃 Evening                2047 commits        ████████░░░░░░░░░░░░░░░░░   31.64 % 
-🌙 Night                  1797 commits        ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+🌞 Morning                950 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+🌆 Daytime                1735 commits        ███████░░░░░░░░░░░░░░░░░░   26.52 % 
+🌃 Evening                2057 commits        ████████░░░░░░░░░░░░░░░░░   31.45 % 
+🌙 Night                  1799 commits        ███████░░░░░░░░░░░░░░░░░░   27.50 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   832 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Tuesday                  606 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-Wednesday                1179 commits        █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
-Thursday                 1871 commits        ███████░░░░░░░░░░░░░░░░░░   28.92 % 
-Friday                   897 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Saturday                 522 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-Sunday                   562 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+Monday                   841 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Tuesday                  611 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Wednesday                1192 commits        █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+Thursday                 1892 commits        ███████░░░░░░░░░░░░░░░░░░   28.93 % 
+Friday                   917 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Saturday                 525 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+Sunday                   563 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
 ```
 
 
@@ -97,11 +97,11 @@ Windows                  12 hrs 29 mins      ███████████�
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     8 repos             ███████░░░░░░░░░░░░░░░░░░   29.63 % 
-C#                       3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Blade                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Dart                     10 repos            █████████░░░░░░░░░░░░░░░░   34.48 % 
+C#                       3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Blade                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
@@ -111,7 +111,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ahheng0813/ahheng0813/main/assets/bar_graph.png)
 
 
- Last Updated on 02/04/2026 01:19:59 UTC
+ Last Updated on 02/04/2026 12:51:39 UTC
 <!--END_SECTION:waka-->
 <!-- [![wakatime](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io.svg)](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io)
  <figure><embed src="https://wakatime.com/share/@bce690d2-17e6-4840-b85b-f2fa3093c0a8/47755d12-36c4-49ec-89e2-92846b8e1c1d.svg"></embed></figure>
