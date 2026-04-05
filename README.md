@@ -72,26 +72,26 @@ Sunday                   563 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Dart                     8 hrs 11 mins       █████████████████░░░░░░░░   67.50 % 
-YAML                     2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-C#                       45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-Kotlin                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-Binary                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Dart                     6 hrs 51 mins       ████████████████░░░░░░░░░   64.07 % 
+YAML                     2 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+C#                       45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+Binary                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 
 🔥 Editors: 
-Android Studio           8 hrs               ████████████████░░░░░░░░░   65.90 % 
-VS Code                  3 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   26.84 % 
-Visual Studio            52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+Android Studio           7 hrs 29 mins       ██████████████████░░░░░░░   70.08 % 
+VS Code                  2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
+Visual Studio            52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
 
 🐱‍💻 Projects: 
-bantupanduv2             6 hrs 10 mins       █████████████░░░░░░░░░░░░   50.82 % 
-Bantu2U_tow_truck_driver 3 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   31.01 % 
-myInsurAPI               1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-bantu2u_workshop-Mobile  1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-APIGateway               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+bantupanduv2             5 hrs 3 mins        ████████████░░░░░░░░░░░░░   47.23 % 
+Bantu2U_tow_truck_driver 3 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   35.15 % 
+myInsurAPI               1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+bantu2u_workshop-Mobile  46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+APIGateway               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Windows                  12 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -111,7 +111,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ahheng0813/ahheng0813/main/assets/bar_graph.png)
 
 
- Last Updated on 04/04/2026 12:34:27 UTC
+ Last Updated on 05/04/2026 01:25:50 UTC
 <!--END_SECTION:waka-->
 <!-- [![wakatime](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io.svg)](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io)
  <figure><embed src="https://wakatime.com/share/@bce690d2-17e6-4840-b85b-f2fa3093c0a8/47755d12-36c4-49ec-89e2-92846b8e1c1d.svg"></embed></figure>
