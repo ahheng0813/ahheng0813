@@ -29,37 +29,37 @@ I’m Tee Kai Heng, a Software System Development student at TARUMT. <br>I’m m
 
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-126%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-126%20hrs%2043%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 406.2 kB Used in GitHub's Storage 
+> 📦 471.9 kB Used in GitHub's Storage 
  > 
-> 🏆 269 Contributions in the Year 2026
+> 🏆 271 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 7 Public Repositories 
  > 
-> 🔑 8 Private Repositories 
+> 🔑 9 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                950 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
 🌆 Daytime                1739 commits        ███████░░░░░░░░░░░░░░░░░░   26.57 % 
-🌃 Evening                2057 commits        ████████░░░░░░░░░░░░░░░░░   31.43 % 
-🌙 Night                  1799 commits        ███████░░░░░░░░░░░░░░░░░░   27.49 % 
+🌃 Evening                2057 commits        ████████░░░░░░░░░░░░░░░░░   31.42 % 
+🌙 Night                  1800 commits        ███████░░░░░░░░░░░░░░░░░░   27.50 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   841 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-Tuesday                  611 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Monday                   842 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Tuesday                  611 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
 Wednesday                1192 commits        █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
-Thursday                 1892 commits        ███████░░░░░░░░░░░░░░░░░░   28.91 % 
+Thursday                 1892 commits        ███████░░░░░░░░░░░░░░░░░░   28.90 % 
 Friday                   921 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
 Saturday                 525 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
 Sunday                   563 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
@@ -72,36 +72,36 @@ Sunday                   563 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Dart                     6 hrs 51 mins       ████████████████░░░░░░░░░   64.07 % 
-YAML                     2 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-C#                       45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-Binary                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+Dart                     6 hrs 51 mins       ███████████████░░░░░░░░░░   58.87 % 
+YAML                     2 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+Python                   48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+C#                       45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+Binary                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 
 🔥 Editors: 
-Android Studio           7 hrs 29 mins       ██████████████████░░░░░░░   70.08 % 
-VS Code                  2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
-Visual Studio            52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+Android Studio           7 hrs 29 mins       ████████████████░░░░░░░░░   64.40 % 
+VS Code                  3 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.02 % 
+Visual Studio            52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
 
 🐱‍💻 Projects: 
-bantupanduv2             5 hrs 3 mins        ████████████░░░░░░░░░░░░░   47.23 % 
-Bantu2U_tow_truck_driver 3 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   35.15 % 
-myInsurAPI               1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-bantu2u_workshop-Mobile  46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-APIGateway               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+bantupanduv2             5 hrs 9 mins        ███████████░░░░░░░░░░░░░░   44.35 % 
+Bantu2U_tow_truck_driver 3 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   32.30 % 
+myInsurAPI               1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+bantu2u_workshop-Mobile  46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+icScanner                45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 
 💻 Operating System: 
-Windows                  10 hrs 41 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     10 repos            █████████░░░░░░░░░░░░░░░░   34.48 % 
-C#                       3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Blade                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Dart                     10 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
+C#                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Blade                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 
 
@@ -111,7 +111,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ahheng0813/ahheng0813/main/assets/bar_graph.png)
 
 
- Last Updated on 05/04/2026 12:36:31 UTC
+ Last Updated on 06/04/2026 01:26:15 UTC
 <!--END_SECTION:waka-->
 <!-- [![wakatime](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io.svg)](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io)
  <figure><embed src="https://wakatime.com/share/@bce690d2-17e6-4840-b85b-f2fa3093c0a8/47755d12-36c4-49ec-89e2-92846b8e1c1d.svg"></embed></figure>
