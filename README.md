@@ -29,7 +29,7 @@ I’m Tee Kai Heng, a Software System Development student at TARUMT. <br>I’m m
 
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-239%20hrs%2048%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -72,26 +72,26 @@ Sunday                   568 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Dart                     7 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   40.00 % 
-C#                       5 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   29.14 % 
-Binary                   2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Other                    1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-JavaScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Dart                     6 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   38.92 % 
+C#                       6 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   38.47 % 
+Binary                   1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+Other                    1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+JavaScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 
 🔥 Editors: 
-Visual Studio            8 hrs 30 mins       ████████████░░░░░░░░░░░░░   46.70 % 
-Android Studio           4 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   27.38 % 
-VS Code                  4 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   25.92 % 
+Visual Studio            7 hrs 39 mins       ███████████░░░░░░░░░░░░░░   44.07 % 
+VS Code                  5 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   29.69 % 
+Android Studio           4 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   26.24 % 
 
 🐱‍💻 Projects: 
-myInsurAPI               4 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
-bantupanduv2             3 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
-Bantu2U_Center-Module    3 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
-BantuRescueDriver_v2     2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-Call Center Module       1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+myInsurAPI               6 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   37.42 % 
+bantupanduv2             3 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+BantuRescueDriver_v2     2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Bantu2U_Center-Module    1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+Bantu2u                  1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
 
 💻 Operating System: 
-Windows                  18 hrs 12 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -111,7 +111,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ahheng0813/ahheng0813/main/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2026 14:19:18 UTC
+ Last Updated on 23/05/2026 02:02:55 UTC
 <!--END_SECTION:waka-->
 <!-- [![wakatime](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io.svg)](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io)
  <figure><embed src="https://wakatime.com/share/@bce690d2-17e6-4840-b85b-f2fa3093c0a8/47755d12-36c4-49ec-89e2-92846b8e1c1d.svg"></embed></figure>
