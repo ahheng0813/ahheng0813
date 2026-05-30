@@ -72,26 +72,26 @@ Sunday                   568 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Dart                     10 hrs 7 mins       █████████████████░░░░░░░░   68.62 % 
-C#                       3 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
-Binary                   33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Dart                     10 hrs 5 mins       █████████████████████░░░░   84.26 % 
+C#                       1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Binary                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Android Studio           8 hrs 16 mins       ██████████████░░░░░░░░░░░   56.13 % 
-VS Code                  3 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
-Visual Studio            3 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Android Studio           8 hrs 14 mins       █████████████████░░░░░░░░   68.88 % 
+VS Code                  2 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
+Visual Studio            1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
 
 🐱‍💻 Projects: 
-bantupanduv2             9 hrs 46 mins       █████████████████░░░░░░░░   66.27 % 
-myInsurAPI               3 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
-Views                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-Util                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-DA                       8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+bantupanduv2             9 hrs 44 mins       ████████████████████░░░░░   81.37 % 
+myInsurAPI               1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+Views                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Util                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Bantu2u_Customer         8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 💻 Operating System: 
-Windows                  14 hrs 45 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -111,7 +111,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ahheng0813/ahheng0813/main/assets/bar_graph.png)
 
 
- Last Updated on 30/05/2026 02:04:01 UTC
+ Last Updated on 30/05/2026 13:04:23 UTC
 <!--END_SECTION:waka-->
 <!-- [![wakatime](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io.svg)](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io)
  <figure><embed src="https://wakatime.com/share/@bce690d2-17e6-4840-b85b-f2fa3093c0a8/47755d12-36c4-49ec-89e2-92846b8e1c1d.svg"></embed></figure>
