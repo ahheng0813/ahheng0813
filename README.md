@@ -29,7 +29,7 @@ I’m Tee Kai Heng, a Software System Development student at TARUMT. <br>I’m m
 
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-336%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-332%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -48,7 +48,7 @@ I’m Tee Kai Heng, a Software System Development student at TARUMT. <br>I’m m
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1765 commits        █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+🌞 Morning                1766 commits        █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
 🌆 Daytime                3456 commits        █████████░░░░░░░░░░░░░░░░   36.65 % 
 🌃 Evening                2394 commits        ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
 🌙 Night                  1814 commits        █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
@@ -56,11 +56,11 @@ I’m Tee Kai Heng, a Software System Development student at TARUMT. <br>I’m m
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1282 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Monday                   1282 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
 Tuesday                  1109 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Wednesday                1875 commits        █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+Wednesday                1875 commits        █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
 Thursday                 2598 commits        ███████░░░░░░░░░░░░░░░░░░   27.55 % 
-Friday                   1433 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Friday                   1434 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
 Saturday                 543 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
 Sunday                   589 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
@@ -72,27 +72,27 @@ Sunday                   589 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Dart                     7 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   39.51 % 
-C#                       5 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   29.38 % 
-Binary                   3 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-CSHTML                   1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Dart                     9 hrs 58 mins       █████████████░░░░░░░░░░░░   50.28 % 
+C#                       3 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+Binary                   2 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+CSHTML                   1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+XML                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 
 🔥 Editors: 
-Visual Studio            7 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   41.80 % 
-Claude Code              6 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   32.43 % 
-Android Studio           3 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-VS Code                  1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+Visual Studio            6 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   31.62 % 
+Claude Code              6 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   30.85 % 
+Android Studio           6 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   30.31 % 
+VS Code                  1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
 
 🐱‍💻 Projects: 
-bantupanduv2             6 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   36.48 % 
-myInsurAPI               6 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   34.10 % 
-Bantu2U_Center-Module    2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-APIGateway               1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-Call Center Module       50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+bantupanduv2             7 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   37.45 % 
+myInsurAPI               3 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+BantuAutoPanel_v2        3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+Bantu2U_Center-Module    2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+APIGateway               1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
 
 💻 Operating System: 
-Windows                  19 hrs 1 min        █████████████████████████   100.00 % 
+Windows                  19 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -112,7 +112,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ahheng0813/ahheng0813/main/assets/bar_graph.png)
 
 
- Last Updated on 02/07/2026 13:32:36 UTC
+ Last Updated on 03/07/2026 01:56:42 UTC
 <!--END_SECTION:waka-->
 <!-- [![wakatime](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io.svg)](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io)
  <figure><embed src="https://wakatime.com/share/@bce690d2-17e6-4840-b85b-f2fa3093c0a8/47755d12-36c4-49ec-89e2-92846b8e1c1d.svg"></embed></figure>
