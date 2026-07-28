@@ -29,7 +29,9 @@ I’m Tee Kai Heng, a Software System Development student at TARUMT. <br>I’m m
 
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-385%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-378%20hrs%202%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-71%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -72,27 +74,50 @@ Sunday                   585 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Dart                     8 hrs 49 mins       ██████████████████░░░░░░░   72.10 % 
-C#                       2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
-Binary                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Dart                     9 hrs 55 mins       ████████████████████░░░░░   81.03 % 
+C#                       1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Other                    44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Binary                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   38.60 % 
-Android Studio           3 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   29.67 % 
-VS Code                  2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-Visual Studio            1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Claude Code              4 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   39.21 % 
+Android Studio           4 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   35.06 % 
+VS Code                  2 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
+Visual Studio            44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
 
 🐱‍💻 Projects: 
-bantupanduv2             8 hrs 37 mins       ██████████████████░░░░░░░   70.42 % 
-Bantu2U_Center-Module    1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-myInsurAPI               50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-BantuAutoPanel_v2        33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-Call Center Module       17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+bantupanduv2             9 hrs 50 mins       ████████████████████░░░░░   80.23 % 
+BantuAutoPanel_v2        47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+APIGateway               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+myInsurAPI               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+malaysia-postcodes       16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 💻 Operating System: 
-Windows                  12 hrs 14 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 15 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 6 hrs 8 mins (50.08%)
+
+✍️ 642 lines written by AI, 402 lines written by hand (61.49% AI-written)
+
+🔤 47,672,511 Input Tokens, 256,926 Output Tokens
+
+💵 $146.87 Estimated AI Cost This Week
+
+🧠 13 AI Sessions, 30 AI Prompts
+
+Sonnet                   734 lines           █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 61.49% of written lines came from AI
+📝 Concise Prompter — average 172 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 57.47% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -112,7 +137,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ahheng0813/ahheng0813/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 14:14:19 UTC
+ Last Updated on 28/07/2026 01:32:06 UTC
 <!--END_SECTION:waka-->
 <!-- [![wakatime](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io.svg)](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io)
  <figure><embed src="https://wakatime.com/share/@bce690d2-17e6-4840-b85b-f2fa3093c0a8/47755d12-36c4-49ec-89e2-92846b8e1c1d.svg"></embed></figure>
