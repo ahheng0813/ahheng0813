@@ -29,9 +29,9 @@ I’m Tee Kai Heng, a Software System Development student at TARUMT. <br>I’m m
 
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-386%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-390%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-76%20hrs%2035%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-78%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -39,32 +39,32 @@ I’m Tee Kai Heng, a Software System Development student at TARUMT. <br>I’m m
 
 > 📦 472.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,025 Contributions in the Year 2026
+> 🏆 1,032 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 8 Public Repositories 
+> 📜 7 Public Repositories 
  > 
 > 🔑 11 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1827 commits        █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
-🌆 Daytime                3625 commits        █████████░░░░░░░░░░░░░░░░   37.32 % 
-🌃 Evening                2449 commits        ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
-🌙 Night                  1811 commits        █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+🌞 Morning                1827 commits        █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
+🌆 Daytime                3635 commits        █████████░░░░░░░░░░░░░░░░   37.37 % 
+🌃 Evening                2455 commits        ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
+🌙 Night                  1811 commits        █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1359 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Tuesday                  1136 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-Wednesday                1993 commits        █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
-Thursday                 2609 commits        ███████░░░░░░░░░░░░░░░░░░   26.86 % 
-Friday                   1491 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Saturday                 539 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-Sunday                   585 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Monday                   1359 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Tuesday                  1152 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Wednesday                1993 commits        █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
+Thursday                 2609 commits        ███████░░░░░░░░░░░░░░░░░░   26.82 % 
+Friday                   1491 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Saturday                 539 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+Sunday                   585 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
 ```
 
 
@@ -123,11 +123,11 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     12 repos            █████████░░░░░░░░░░░░░░░░   34.29 % 
-C#                       4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Dart                     12 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
+C#                       4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
 
 
@@ -137,7 +137,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ahheng0813/ahheng0813/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 01:28:04 UTC
+ Last Updated on 04/08/2026 13:49:37 UTC
 <!--END_SECTION:waka-->
 <!-- [![wakatime](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io.svg)](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io)
  <figure><embed src="https://wakatime.com/share/@bce690d2-17e6-4840-b85b-f2fa3093c0a8/47755d12-36c4-49ec-89e2-92846b8e1c1d.svg"></embed></figure>
