@@ -39,7 +39,7 @@ I’m Tee Kai Heng, a Software System Development student at TARUMT. <br>I’m m
 
 > 📦 472.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,116 Contributions in the Year 2026
+> 🏆 1,120 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,21 +50,21 @@ I’m Tee Kai Heng, a Software System Development student at TARUMT. <br>I’m m
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2183 commits        █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
-🌆 Daytime                4278 commits        ██████████░░░░░░░░░░░░░░░   39.01 % 
-🌃 Evening                2645 commits        ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
-🌙 Night                  1861 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+🌞 Morning                2183 commits        █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+🌆 Daytime                4278 commits        ██████████░░░░░░░░░░░░░░░   38.97 % 
+🌃 Evening                2645 commits        ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+🌙 Night                  1872 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1534 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Tuesday                  1413 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-Wednesday                2271 commits        █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
-Thursday                 2834 commits        ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
-Friday                   1742 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+Monday                   1534 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Tuesday                  1413 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+Wednesday                2271 commits        █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+Thursday                 2834 commits        ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
+Friday                   1742 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
 Saturday                 564 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-Sunday                   609 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+Sunday                   620 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
 ```
 
 
@@ -74,48 +74,49 @@ Sunday                   609 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-C#                       1 hr 24 mins        ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
-JSON                     1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
-JavaScript               1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
-Other                    31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-Unity3D Asset            25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+C#                       4 hrs 46 mins       █████████████░░░░░░░░░░░░   50.96 % 
+JSON                     1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+JavaScript               1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Other                    46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+Unity3D Asset            27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 46 mins       █████████████████░░░░░░░░   66.31 % 
-Claude Code              1 hr 31 mins        ███████░░░░░░░░░░░░░░░░░░   26.74 % 
-Visual Studio            23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+VS Code                  7 hrs 27 mins       ████████████████████░░░░░   79.53 % 
+Claude Code              1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Visual Studio            23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 
 🐱‍💻 Projects: 
-malaysia-police-stations 3 hrs 17 mins       ██████████████░░░░░░░░░░░   57.82 % 
-Press-the-Red-Button     1 hr 56 mins        █████████░░░░░░░░░░░░░░░░   34.01 % 
-myInsurAPI               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-Bantu2U_Center-Module    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-APIGateway               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Press-the-Red-Button     4 hrs 53 mins       █████████████░░░░░░░░░░░░   52.21 % 
+malaysia-police-stations 3 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   35.13 % 
+Level                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+myInsurAPI               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+Core                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 💻 Operating System: 
-Windows                  5 hrs 41 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 28 mins (43.44%)
+⏱ AI Coding Time: 4 hrs 17 mins (45.82%)
 
-✍️ 407 lines written by AI, 1,485,388 lines written by hand (0.03% AI-written)
+✍️ 4,142 lines written by AI, 1,485,802 lines written by hand (0.28% AI-written)
 
-🔤 471,497 Input Tokens, 71,804 Output Tokens
+🔤 703,058 Input Tokens, 72,320 Output Tokens
 
-💵 $3.41 Estimated AI Cost This Week
+💵 $4.11 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 15 AI Prompts
+🧠 10 AI Sessions, 36 AI Prompts
 
-Sonnet                   407 lines           █████████████████████████   100.00 % 
+Github-Copilot           3,735 lines         ███████████████████████░░   90.17 % 
+Sonnet                   407 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.03% of written lines came from AI
-📝 Concise Prompter — average 212 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 99.98% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.28% of written lines came from AI
+📝 Concise Prompter — average 207 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 99.81% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -135,7 +136,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ahheng0813/ahheng0813/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2026 12:20:54 UTC
+ Last Updated on 23/08/2026 00:43:23 UTC
 <!--END_SECTION:waka-->
 <!-- [![wakatime](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io.svg)](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io)
  <figure><embed src="https://wakatime.com/share/@bce690d2-17e6-4840-b85b-f2fa3093c0a8/47755d12-36c4-49ec-89e2-92846b8e1c1d.svg"></embed></figure>
