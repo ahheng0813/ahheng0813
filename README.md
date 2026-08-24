@@ -37,9 +37,9 @@ I’m Tee Kai Heng, a Software System Development student at TARUMT. <br>I’m m
 
 **🐱 My GitHub Data** 
 
-> 📦 472.4 kB Used in GitHub's Storage 
+> 📦 472.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,120 Contributions in the Year 2026
+> 🏆 1,129 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,21 +50,21 @@ I’m Tee Kai Heng, a Software System Development student at TARUMT. <br>I’m m
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2183 commits        █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-🌆 Daytime                4278 commits        ██████████░░░░░░░░░░░░░░░   38.96 % 
-🌃 Evening                2645 commits        ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
-🌙 Night                  1875 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+🌞 Morning                2183 commits        █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
+🌆 Daytime                4278 commits        ██████████░░░░░░░░░░░░░░░   38.88 % 
+🌃 Evening                2645 commits        ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
+🌙 Night                  1897 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1534 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-Tuesday                  1413 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-Wednesday                2271 commits        █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
-Thursday                 2834 commits        ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
-Friday                   1742 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-Saturday                 564 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-Sunday                   623 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Monday                   1552 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Tuesday                  1413 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Wednesday                2271 commits        █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+Thursday                 2834 commits        ██████░░░░░░░░░░░░░░░░░░░   25.76 % 
+Friday                   1742 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+Saturday                 564 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Sunday                   627 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
 ```
 
 
@@ -74,34 +74,34 @@ Sunday                   623 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-C#                       4 hrs 46 mins       █████████████░░░░░░░░░░░░   50.96 % 
-JSON                     1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-JavaScript               1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Other                    46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-Unity3D Asset            27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+C#                       6 hrs 12 mins       ██████████████░░░░░░░░░░░   57.40 % 
+JSON                     1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+JavaScript               1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+Other                    46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+Unity3D Asset            27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 27 mins       ████████████████████░░░░░   79.53 % 
-Claude Code              1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Visual Studio            23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+VS Code                  8 hrs 53 mins       █████████████████████░░░░   82.24 % 
+Claude Code              1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Visual Studio            23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 
 🐱‍💻 Projects: 
-Press-the-Red-Button     4 hrs 53 mins       █████████████░░░░░░░░░░░░   52.21 % 
-malaysia-police-stations 3 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   35.13 % 
-Level                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-myInsurAPI               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-Core                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Press-the-Red-Button     6 hrs 19 mins       ███████████████░░░░░░░░░░   58.55 % 
+malaysia-police-stations 3 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   30.47 % 
+Level                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+myInsurAPI               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Core                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 
 💻 Operating System: 
-Windows                  9 hrs 22 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 17 mins (45.82%)
+⏱ AI Coding Time: 4 hrs 17 mins (39.74%)
 
-✍️ 4,142 lines written by AI, 1,485,802 lines written by hand (0.28% AI-written)
+✍️ 4,142 lines written by AI, 1,486,886 lines written by hand (0.28% AI-written)
 
 🔤 703,058 Input Tokens, 72,320 Output Tokens
 
@@ -136,7 +136,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ahheng0813/ahheng0813/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 12:21:57 UTC
+ Last Updated on 24/08/2026 00:41:59 UTC
 <!--END_SECTION:waka-->
 <!-- [![wakatime](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io.svg)](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io)
  <figure><embed src="https://wakatime.com/share/@bce690d2-17e6-4840-b85b-f2fa3093c0a8/47755d12-36c4-49ec-89e2-92846b8e1c1d.svg"></embed></figure>
