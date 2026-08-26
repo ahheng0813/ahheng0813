@@ -74,48 +74,48 @@ Sunday                   629 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-C#                       6 hrs 50 mins       ███████████████░░░░░░░░░░   59.16 % 
-Dart                     1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-JSON                     1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-Other                    1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-Binary                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+C#                       5 hrs 31 mins       ███████████████░░░░░░░░░░   60.11 % 
+Dart                     1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+JSON                     1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Other                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+Python                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 25 mins       ████████████████████░░░░░   81.53 % 
-Claude Code              1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Android Studio           26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-Visual Studio            23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+VS Code                  7 hrs 50 mins       █████████████████████░░░░   85.45 % 
+Claude Code              34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Android Studio           26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+Visual Studio            18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 
 🐱‍💻 Projects: 
-Press-the-Red-Button     6 hrs 35 mins       ██████████████░░░░░░░░░░░   56.94 % 
-malaysia-police-stations 2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
-bantupanduv2             1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-Level                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-myInsurAPI               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Press-the-Red-Button     5 hrs 6 mins        ██████████████░░░░░░░░░░░   55.57 % 
+malaysia-police-stations 1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+bantupanduv2             1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Level                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+myInsurAPI               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
 
 💻 Operating System: 
-Windows                  11 hrs 33 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 54 mins (33.75%)
+⏱ AI Coding Time: 3 hrs 7 mins (33.97%)
 
-✍️ 4,006 lines written by AI, 1,851,111 lines written by hand (0.22% AI-written)
+✍️ 3,988 lines written by AI, 1,850,573 lines written by hand (0.22% AI-written)
 
-🔤 572,685 Input Tokens, 54,005 Output Tokens
+🔤 294,769 Input Tokens, 23,671 Output Tokens
 
-💵 $3.24 Estimated AI Cost This Week
+💵 $1.41 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 36 AI Prompts
+🧠 8 AI Sessions, 30 AI Prompts
 
-Github-Copilot           3,892 lines         ████████████████████████░   97.15 % 
-Sonnet                   114 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Github-Copilot           3,892 lines         ████████████████████████░   97.59 % 
+Sonnet                   96 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.22% of written lines came from AI
-📄 Detailed Prompter — average 562 characters per prompt
+📄 Detailed Prompter — average 659 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 99.85% of changed lines were hand-edited
 ```
@@ -137,7 +137,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ahheng0813/ahheng0813/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2026 12:29:23 UTC
+ Last Updated on 26/08/2026 00:43:32 UTC
 <!--END_SECTION:waka-->
 <!-- [![wakatime](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io.svg)](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io)
  <figure><embed src="https://wakatime.com/share/@bce690d2-17e6-4840-b85b-f2fa3093c0a8/47755d12-36c4-49ec-89e2-92846b8e1c1d.svg"></embed></figure>
