@@ -29,9 +29,9 @@ I’m Tee Kai Heng, a Software System Development student at TARUMT. <br>I’m m
 
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-425%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-425%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-96%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-96%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -74,35 +74,36 @@ Sunday                   629 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-C#                       5 hrs 30 mins       ████████████████░░░░░░░░░   63.88 % 
-Dart                     1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-JSON                     1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-Other                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-Unity3D Asset            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+C#                       6 hrs 25 mins       █████████████████░░░░░░░░   67.54 % 
+Dart                     1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+JSON                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+Binary                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 48 mins       ███████████████████████░░   90.76 % 
-Android Studio           29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-Claude Code              16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+VS Code                  8 hrs 20 mins       ██████████████████████░░░   87.62 % 
+Android Studio           29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Visual Studio            22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Claude Code              16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🐱‍💻 Projects: 
-Press-the-Red-Button     5 hrs 9 mins        ███████████████░░░░░░░░░░   59.84 % 
-bantupanduv2             1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-malaysia-police-stations 1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-Level                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
-Core                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Press-the-Red-Button     5 hrs 9 mins        ██████████████░░░░░░░░░░░   54.11 % 
+bantupanduv2             1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+Bantu2u_Public_API       1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+malaysia-police-stations 1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+Level                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
 
 💻 Operating System: 
-Windows                  8 hrs 36 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 47 mins (32.35%)
+⏱ AI Coding Time: 2 hrs 47 mins (29.26%)
 
-✍️ 3,941 lines written by AI, 2,216,348 lines written by hand (0.18% AI-written)
+✍️ 3,941 lines written by AI, 1,111,876 lines written by hand (0.35% AI-written)
 
 🔤 272,713 Input Tokens, 13,984 Output Tokens
 
@@ -115,10 +116,10 @@ Sonnet                   49 lines            ░░░░░░░░░░░�
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.18% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0.35% of written lines came from AI
 📄 Detailed Prompter — average 502 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 99.87% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.65% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -138,7 +139,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ahheng0813/ahheng0813/main/assets/bar_graph.png)
 
 
- Last Updated on 27/08/2026 05:44:33 UTC
+ Last Updated on 27/08/2026 21:29:46 UTC
 <!--END_SECTION:waka-->
 <!-- [![wakatime](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io.svg)](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io)
  <figure><embed src="https://wakatime.com/share/@bce690d2-17e6-4840-b85b-f2fa3093c0a8/47755d12-36c4-49ec-89e2-92846b8e1c1d.svg"></embed></figure>
