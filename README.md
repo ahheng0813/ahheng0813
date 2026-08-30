@@ -74,52 +74,52 @@ Sunday                   629 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-C#                       7 hrs 8 mins        █████████████████░░░░░░░░   66.81 % 
-Dart                     1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-Binary                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+C#                       3 hrs 45 mins       █████████████░░░░░░░░░░░░   53.72 % 
+Dart                     1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
+JSON                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Binary                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 18 mins       ██████████████████████░░░   87.14 % 
-Visual Studio            42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Android Studio           29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-Claude Code              8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+VS Code                  5 hrs 37 mins       ████████████████████░░░░░   80.39 % 
+Visual Studio            42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Android Studio           29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+Claude Code              8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🐱‍💻 Projects: 
-Press-the-Red-Button     5 hrs 9 mins        ████████████░░░░░░░░░░░░░   48.24 % 
-Bantu2u_Public_API       1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-bantupanduv2             1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-malaysia-police-stations 1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-Level                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Press-the-Red-Button     2 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   31.37 % 
+Bantu2u_Public_API       1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
+bantupanduv2             1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+malaysia-police-stations 1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+APIGateway               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 
 💻 Operating System: 
-Windows                  10 hrs 40 mins      █████████████████████████   100.00 % 
+Windows                  7 hrs               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 34 mins (24.03%)
+⏱ AI Coding Time: 44 mins (10.67%)
 
-✍️ 3,892 lines written by AI, 373,582 lines written by hand (1.03% AI-written)
+✍️ 157 lines written by AI, 373,168 lines written by hand (0.04% AI-written)
 
-🔤 296,510 Input Tokens, 17,747 Output Tokens
+🔤 64,949 Input Tokens, 17,231 Output Tokens
 
-💵 $2.06 Estimated AI Cost This Week
+💵 $1.36 Estimated AI Cost This Week
 
-🧠 44 AI Sessions, 50 AI Prompts
+🧠 41 AI Sessions, 29 AI Prompts
 
-Github-Copilot           3,892 lines         █████████████████████████   100.00 % 
+Github-Copilot           1,385 lines         █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 1.03% of written lines came from AI
-📝 Concise Prompter — average 485 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.04% of written lines came from AI
+📄 Detailed Prompter — average 689 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 98.97% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.96% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -139,7 +139,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ahheng0813/ahheng0813/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 15:59:00 UTC
+ Last Updated on 30/08/2026 02:21:25 UTC
 <!--END_SECTION:waka-->
 <!-- [![wakatime](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io.svg)](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io)
  <figure><embed src="https://wakatime.com/share/@bce690d2-17e6-4840-b85b-f2fa3093c0a8/47755d12-36c4-49ec-89e2-92846b8e1c1d.svg"></embed></figure>
