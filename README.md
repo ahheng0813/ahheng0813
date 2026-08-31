@@ -74,36 +74,36 @@ Sunday                   629 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-C#                       3 hrs 45 mins       █████████████░░░░░░░░░░░░   53.72 % 
-Dart                     1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-JSON                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-Binary                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+C#                       2 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   41.92 % 
+Dart                     1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
+JSON                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+Binary                   22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 37 mins       ████████████████████░░░░░   80.39 % 
-Visual Studio            42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-Android Studio           29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-Claude Code              8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+VS Code                  4 hrs 11 mins       ███████████████████░░░░░░   75.35 % 
+Visual Studio            42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Android Studio           29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+Claude Code              8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🐱‍💻 Projects: 
-Press-the-Red-Button     2 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   31.37 % 
-Bantu2u_Public_API       1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
-bantupanduv2             1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-malaysia-police-stations 1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-APIGateway               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Bantu2u_Public_API       1 hr 47 mins        ████████░░░░░░░░░░░░░░░░░   32.28 % 
+bantupanduv2             1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
+malaysia-police-stations 1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
+Press-the-Red-Button     45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+APIGateway               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
 
 💻 Operating System: 
-Windows                  7 hrs               █████████████████████████   100.00 % 
+Windows                  5 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 44 mins (10.67%)
+⏱ AI Coding Time: 44 mins (13.41%)
 
-✍️ 157 lines written by AI, 373,168 lines written by hand (0.04% AI-written)
+✍️ 157 lines written by AI, 372,084 lines written by hand (0.04% AI-written)
 
 🔤 64,949 Input Tokens, 17,231 Output Tokens
 
@@ -139,7 +139,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ahheng0813/ahheng0813/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2026 15:45:51 UTC
+ Last Updated on 31/08/2026 02:16:24 UTC
 <!--END_SECTION:waka-->
 <!-- [![wakatime](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io.svg)](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io)
  <figure><embed src="https://wakatime.com/share/@bce690d2-17e6-4840-b85b-f2fa3093c0a8/47755d12-36c4-49ec-89e2-92846b8e1c1d.svg"></embed></figure>
