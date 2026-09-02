@@ -74,52 +74,53 @@ Sunday                   629 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-C#                       1 hr 38 mins        █████████████░░░░░░░░░░░░   50.94 % 
-JSON                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-Binary                   22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-YAML                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-JavaScript               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+C#                       2 hrs 35 mins       █████████████░░░░░░░░░░░░   51.23 % 
+Dart                     42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Binary                   29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+JSON                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+JavaScript               18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 16 mins       ██████████████████░░░░░░░   71.04 % 
-Visual Studio            42 mins             ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
-Claude Code              8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Android Studio           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+VS Code                  3 hrs 6 mins        ███████████████░░░░░░░░░░   61.54 % 
+Visual Studio            53 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+Claude Code              45 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Android Studio           17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🐱‍💻 Projects: 
-Bantu2u_Public_API       1 hr 47 mins        ██████████████░░░░░░░░░░░   56.04 % 
-malaysia-police-stations 57 mins             ███████░░░░░░░░░░░░░░░░░░   29.83 % 
-APIGateway               15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-myInsurAPI               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-bantupanduv2             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Bantu2u_Public_API       1 hr 47 mins        █████████░░░░░░░░░░░░░░░░   35.58 % 
+APIGateway               1 hr 23 mins        ███████░░░░░░░░░░░░░░░░░░   27.53 % 
+malaysia-police-stations 58 mins             █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+bantupanduv2             42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+myInsurAPI               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 
 💻 Operating System: 
-Windows                  3 hrs 12 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 mins (9.19%)
+⏱ AI Coding Time: 1 hr 4 mins (21.27%)
 
-✍️ 0 lines written by AI, 1,859 lines written by hand (0.0% AI-written)
+✍️ 653 lines written by AI, 2,007 lines written by hand (24.55% AI-written)
 
-🔤 64,949 Input Tokens, 17,231 Output Tokens
+🔤 202,469 Input Tokens, 58,658 Output Tokens
 
-💵 $1.36 Estimated AI Cost This Week
+💵 $4.74 Estimated AI Cost This Week
 
-🧠 39 AI Sessions, 13 AI Prompts
+🧠 41 AI Sessions, 21 AI Prompts
 
-Github-Copilot           1,228 lines         █████████████████████████   100.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot           1,228 lines         ████████████████░░░░░░░░░   64.56 % 
+Opus                     674 lines           █████████░░░░░░░░░░░░░░░░   35.44 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 267 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 24.55% of written lines came from AI
+📝 Concise Prompter — average 210 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 77.99% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -139,7 +140,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ahheng0813/ahheng0813/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2026 15:49:35 UTC
+ Last Updated on 02/09/2026 01:58:34 UTC
 <!--END_SECTION:waka-->
 <!-- [![wakatime](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io.svg)](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io)
  <figure><embed src="https://wakatime.com/share/@bce690d2-17e6-4840-b85b-f2fa3093c0a8/47755d12-36c4-49ec-89e2-92846b8e1c1d.svg"></embed></figure>
