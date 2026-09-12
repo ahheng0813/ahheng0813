@@ -74,49 +74,49 @@ Sunday                   637 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Dart                     3 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   35.01 % 
-C#                       2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
-Python                   1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
-JSON                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-Binary                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+Dart                     3 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   34.24 % 
+C#                       2 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
+Python                   1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Binary                   36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+JSON                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 48 mins       ███████████░░░░░░░░░░░░░░   42.58 % 
-VS Code                  2 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
-Visual Studio            2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   21.68 % 
-Android Studio           1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Claude Code              3 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   34.13 % 
+VS Code                  2 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   27.11 % 
+Visual Studio            2 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   26.59 % 
+Android Studio           1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
 
 🐱‍💻 Projects: 
-bantupanduv2             3 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   29.52 % 
-BantuRescueDriver_v2     2 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
-Bantu2U_Center-Module    2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-myInsurAPI               1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-APIGateway               1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+BantuRescueDriver_v2     2 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   30.38 % 
+bantupanduv2             2 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   27.16 % 
+myInsurAPI               1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+APIGateway               1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+Bantu2U_Center-Module    44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
 
 💻 Operating System: 
-Windows                  11 hrs 17 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 30 mins (57.64%)
+⏱ AI Coding Time: 4 hrs 49 mins (50.59%)
 
-✍️ 5,323 lines written by AI, 3,426 lines written by hand (60.84% AI-written)
+✍️ 4,191 lines written by AI, 3,394 lines written by hand (55.25% AI-written)
 
-🔤 2,388,564 Input Tokens, 267,291 Output Tokens
+🔤 1,169,830 Input Tokens, 159,051 Output Tokens
 
-💵 $63.76 Estimated AI Cost This Week
+💵 $34.91 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 39 AI Prompts
+🧠 7 AI Sessions, 27 AI Prompts
 
-Opus                     5,323 lines         █████████████████████████   100.00 % 
+Opus                     4,199 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 60.84% of written lines came from AI
-📄 Detailed Prompter — average 714 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 41.51% of changed lines were hand-edited
+⚖️ Balanced with AI — 55.25% of written lines came from AI
+📝 Concise Prompter — average 379 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 48.13% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -136,7 +136,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ahheng0813/ahheng0813/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 15:33:16 UTC
+ Last Updated on 12/09/2026 02:07:35 UTC
 <!--END_SECTION:waka-->
 <!-- [![wakatime](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io.svg)](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io)
  <figure><embed src="https://wakatime.com/share/@bce690d2-17e6-4840-b85b-f2fa3093c0a8/47755d12-36c4-49ec-89e2-92846b8e1c1d.svg"></embed></figure>
