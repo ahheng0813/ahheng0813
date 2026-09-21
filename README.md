@@ -124,11 +124,11 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     12 repos            ████████░░░░░░░░░░░░░░░░░   32.43 % 
-C#                       5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Dart                     12 repos            ████████░░░░░░░░░░░░░░░░░   31.58 % 
+C#                       5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
 
@@ -138,7 +138,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ahheng0813/ahheng0813/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 15:07:48 UTC
+ Last Updated on 21/09/2026 02:19:29 UTC
 <!--END_SECTION:waka-->
 <!-- [![wakatime](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io.svg)](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io)
  <figure><embed src="https://wakatime.com/share/@bce690d2-17e6-4840-b85b-f2fa3093c0a8/47755d12-36c4-49ec-89e2-92846b8e1c1d.svg"></embed></figure>
