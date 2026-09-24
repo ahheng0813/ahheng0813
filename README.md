@@ -74,51 +74,51 @@ Sunday                   637 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Dart                     11 hrs 7 mins       ██████████████░░░░░░░░░░░   55.69 % 
-C#                       3 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Binary                   1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-Python                   1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-CSHTML                   1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Dart                     12 hrs 32 mins      █████████████░░░░░░░░░░░░   53.34 % 
+C#                       4 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+Binary                   1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+Python                   1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+CSHTML                   1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 52 mins       ████████████░░░░░░░░░░░░░   49.36 % 
-VS Code                  5 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   26.26 % 
-Visual Studio            2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-Android Studio           2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+Claude Code              10 hrs 37 mins      ███████████░░░░░░░░░░░░░░   45.20 % 
+VS Code                  6 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   28.79 % 
+Visual Studio            3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Android Studio           2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
 
 🐱‍💻 Projects: 
-bantupanduv2             11 hrs 57 mins      ███████████████░░░░░░░░░░   59.80 % 
-Bantu2U_Center-Module    3 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-myInsurAPI               2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-APIGateway               1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-Bantu-Road-Dash          46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+bantupanduv2             13 hrs 30 mins      ██████████████░░░░░░░░░░░   57.45 % 
+Bantu2U_Center-Module    3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+APIGateway               2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+myInsurAPI               2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Bantu-Road-Dash          46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 
 💻 Operating System: 
-Windows                  19 hrs 59 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 48 mins (69.08%)
+⏱ AI Coding Time: 15 hrs 16 mins (64.98%)
 
-✍️ 10,163 lines written by AI, 3,978 lines written by hand (71.87% AI-written)
+✍️ 10,986 lines written by AI, 4,250 lines written by hand (72.11% AI-written)
 
-🔤 2,394,927 Input Tokens, 777,881 Output Tokens
+🔤 2,582,021 Input Tokens, 839,501 Output Tokens
 
-💵 $93.96 Estimated AI Cost This Week
+💵 $101.35 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 121 AI Prompts
+🧠 21 AI Sessions, 128 AI Prompts
 
-Opus                     9,403 lines         ███████████████████████░░   91.55 % 
-Fable                    868 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+Opus                     10,226 lines        ███████████████████████░░   92.18 % 
+Fable                    868 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 71.87% of written lines came from AI
-📄 Detailed Prompter — average 788 characters per prompt
+🤖 AI-Driven — 72.11% of written lines came from AI
+📄 Detailed Prompter — average 757 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 34.43% of changed lines were hand-edited
+🚀 High AI Trust — 34.58% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -138,7 +138,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ahheng0813/ahheng0813/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2026 15:50:22 UTC
+ Last Updated on 24/09/2026 02:11:55 UTC
 <!--END_SECTION:waka-->
 <!-- [![wakatime](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io.svg)](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io)
  <figure><embed src="https://wakatime.com/share/@bce690d2-17e6-4840-b85b-f2fa3093c0a8/47755d12-36c4-49ec-89e2-92846b8e1c1d.svg"></embed></figure>
