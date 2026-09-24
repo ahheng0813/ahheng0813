@@ -29,41 +29,41 @@ I’m Tee Kai Heng, a Software System Development student at TARUMT. <br>I’m m
 
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-468%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-471%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-120%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-122%20hrs%2021%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 472.8 kB Used in GitHub's Storage 
+> 📦 472.9 kB Used in GitHub's Storage 
  > 
-> 🏆 1,394 Contributions in the Year 2026
+> 🏆 1,400 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 7 Public Repositories 
  > 
-> 🔑 11 Private Repositories 
+> 🔑 12 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2414 commits        █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
-🌆 Daytime                4811 commits        ██████████░░░░░░░░░░░░░░░   40.21 % 
-🌃 Evening                2831 commits        ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
+🌞 Morning                2414 commits        █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+🌆 Daytime                4811 commits        ██████████░░░░░░░░░░░░░░░   40.19 % 
+🌃 Evening                2836 commits        ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
 🌙 Night                  1909 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1768 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Tuesday                  1616 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Wednesday                2420 commits        █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
-Thursday                 2962 commits        ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
-Friday                   1993 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
-Saturday                 569 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Monday                   1768 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Tuesday                  1616 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Wednesday                2420 commits        █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+Thursday                 2967 commits        ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
+Friday                   1993 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+Saturday                 569 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 Sunday                   637 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
 ```
 
@@ -124,11 +124,11 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     12 repos            ████████░░░░░░░░░░░░░░░░░   31.58 % 
-C#                       5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Dart                     12 repos            ████████░░░░░░░░░░░░░░░░░   30.77 % 
+HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+C#                       5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 ```
 
 
@@ -138,7 +138,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ahheng0813/ahheng0813/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 02:11:55 UTC
+ Last Updated on 24/09/2026 16:11:32 UTC
 <!--END_SECTION:waka-->
 <!-- [![wakatime](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io.svg)](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io)
  <figure><embed src="https://wakatime.com/share/@bce690d2-17e6-4840-b85b-f2fa3093c0a8/47755d12-36c4-49ec-89e2-92846b8e1c1d.svg"></embed></figure>
