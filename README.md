@@ -39,7 +39,7 @@ I’m Tee Kai Heng, a Software System Development student at TARUMT. <br>I’m m
 
 > 📦 472.8 kB Used in GitHub's Storage 
  > 
-> 🏆 1,400 Contributions in the Year 2026
+> 🏆 1,404 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,19 +50,19 @@ I’m Tee Kai Heng, a Software System Development student at TARUMT. <br>I’m m
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2415 commits        █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
-🌆 Daytime                4811 commits        ██████████░░░░░░░░░░░░░░░   40.19 % 
-🌃 Evening                2836 commits        ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
-🌙 Night                  1909 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+🌞 Morning                2415 commits        █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+🌆 Daytime                4818 commits        ██████████░░░░░░░░░░░░░░░   40.22 % 
+🌃 Evening                2836 commits        ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
+🌙 Night                  1909 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1768 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-Tuesday                  1616 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Wednesday                2420 commits        █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
-Thursday                 2967 commits        ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
-Friday                   1994 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+Monday                   1768 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+Tuesday                  1616 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Wednesday                2420 commits        █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
+Thursday                 2967 commits        ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
+Friday                   2001 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
 Saturday                 569 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 Sunday                   637 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
 ```
@@ -124,10 +124,10 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 
 ```text
 Dart                     12 repos            ████████░░░░░░░░░░░░░░░░░   30.00 % 
-C#                       6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+C#                       7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
 Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
 JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
 
@@ -137,7 +137,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ahheng0813/ahheng0813/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2026 02:29:06 UTC
+ Last Updated on 25/09/2026 16:11:18 UTC
 <!--END_SECTION:waka-->
 <!-- [![wakatime](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io.svg)](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io)
  <figure><embed src="https://wakatime.com/share/@bce690d2-17e6-4840-b85b-f2fa3093c0a8/47755d12-36c4-49ec-89e2-92846b8e1c1d.svg"></embed></figure>
