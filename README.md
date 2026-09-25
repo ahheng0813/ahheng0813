@@ -29,15 +29,15 @@ I’m Tee Kai Heng, a Software System Development student at TARUMT. <br>I’m m
 
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-471%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-475%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-122%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-125%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 472.9 kB Used in GitHub's Storage 
+> 📦 472.8 kB Used in GitHub's Storage 
  > 
 > 🏆 1,400 Contributions in the Year 2026
  > 
@@ -45,12 +45,12 @@ I’m Tee Kai Heng, a Software System Development student at TARUMT. <br>I’m m
  > 
 > 📜 7 Public Repositories 
  > 
-> 🔑 12 Private Repositories 
+> 🔑 11 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2414 commits        █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+🌞 Morning                2415 commits        █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
 🌆 Daytime                4811 commits        ██████████░░░░░░░░░░░░░░░   40.19 % 
 🌃 Evening                2836 commits        ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
 🌙 Night                  1909 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
@@ -61,8 +61,8 @@ I’m Tee Kai Heng, a Software System Development student at TARUMT. <br>I’m m
 Monday                   1768 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
 Tuesday                  1616 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
 Wednesday                2420 commits        █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
-Thursday                 2967 commits        ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
-Friday                   1993 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+Thursday                 2967 commits        ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
+Friday                   1994 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
 Saturday                 569 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 Sunday                   637 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
 ```
@@ -74,61 +74,60 @@ Sunday                   637 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Dart                     12 hrs 32 mins      █████████████░░░░░░░░░░░░   53.34 % 
-C#                       4 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-Binary                   1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-Python                   1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-CSHTML                   1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+Dart                     7 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   35.68 % 
+C#                       4 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
+Binary                   2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+CSHTML                   2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Python                   1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 37 mins      ███████████░░░░░░░░░░░░░░   45.20 % 
-VS Code                  6 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   28.79 % 
-Visual Studio            3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Android Studio           2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Claude Code              8 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   38.59 % 
+VS Code                  6 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   29.30 % 
+Visual Studio            4 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+Android Studio           2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
 
 🐱‍💻 Projects: 
-bantupanduv2             13 hrs 30 mins      ██████████████░░░░░░░░░░░   57.45 % 
-Bantu2U_Center-Module    3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-APIGateway               2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-myInsurAPI               2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-Bantu-Road-Dash          46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+bantupanduv2             8 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   39.38 % 
+Bantu_Central            3 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+Bantu2U_Center-Module    3 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+APIGateway               2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+myInsurAPI               1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
 
 💻 Operating System: 
-Windows                  23 hrs 30 mins      █████████████████████████   100.00 % 
+Windows                  21 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 16 mins (64.98%)
+⏱ AI Coding Time: 12 hrs 44 mins (59.01%)
 
-✍️ 10,986 lines written by AI, 4,250 lines written by hand (72.11% AI-written)
+✍️ 12,520 lines written by AI, 4,337 lines written by hand (74.27% AI-written)
 
-🔤 2,582,021 Input Tokens, 839,501 Output Tokens
+🔤 2,115,400 Input Tokens, 753,056 Output Tokens
 
-💵 $101.35 Estimated AI Cost This Week
+💵 $90.13 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 128 AI Prompts
+🧠 17 AI Sessions, 106 AI Prompts
 
-Opus                     10,226 lines        ███████████████████████░░   92.18 % 
-Fable                    868 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Opus                     12,705 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 72.11% of written lines came from AI
-📄 Detailed Prompter — average 757 characters per prompt
+🤖 AI-Driven — 74.27% of written lines came from AI
+📝 Concise Prompter — average 226 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 34.58% of changed lines were hand-edited
+🚀 High AI Trust — 30.92% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     12 repos            ████████░░░░░░░░░░░░░░░░░   30.77 % 
-HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-C#                       5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Dart                     12 repos            ████████░░░░░░░░░░░░░░░░░   30.00 % 
+C#                       6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
 
@@ -138,7 +137,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ahheng0813/ahheng0813/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 16:11:32 UTC
+ Last Updated on 25/09/2026 02:29:06 UTC
 <!--END_SECTION:waka-->
 <!-- [![wakatime](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io.svg)](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io)
  <figure><embed src="https://wakatime.com/share/@bce690d2-17e6-4840-b85b-f2fa3093c0a8/47755d12-36c4-49ec-89e2-92846b8e1c1d.svg"></embed></figure>
