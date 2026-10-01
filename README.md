@@ -29,9 +29,9 @@ I’m Tee Kai Heng, a Software System Development student at TARUMT. <br>I’m m
 
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-481%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-482%20hrs%207%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-126%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-127%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -74,50 +74,50 @@ Sunday                   637 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Dart                     5 hrs 49 mins       ███████████░░░░░░░░░░░░░░   43.61 % 
-C#                       3 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
-Binary                   1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-CSHTML                   58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-JSON                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+Dart                     4 hrs 24 mins       ███████████░░░░░░░░░░░░░░   42.59 % 
+C#                       1 hr 54 mins        █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
+Binary                   1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+CSHTML                   59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+JSON                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   29.61 % 
-Android Studio           3 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   27.48 % 
-Claude Code              3 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   27.22 % 
-Visual Studio            2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Android Studio           3 hrs               ███████░░░░░░░░░░░░░░░░░░   29.02 % 
+Claude Code              2 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   28.31 % 
+VS Code                  2 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   26.63 % 
+Visual Studio            1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
 
 🐱‍💻 Projects: 
-bantupanduv2             6 hrs 1 min         ███████████░░░░░░░░░░░░░░   45.13 % 
-Bantu_Central            4 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   35.31 % 
-APIGateway               2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
-myInsurAPI               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-Bantu2u_API_Gateway      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Bantu_Central            5 hrs 14 mins       █████████████░░░░░░░░░░░░   50.61 % 
+bantupanduv2             4 hrs 28 mins       ███████████░░░░░░░░░░░░░░   43.15 % 
+APIGateway               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Bantu2U_Center-Module    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+myInsurAPI               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 💻 Operating System: 
-Windows                  13 hrs 20 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 4 mins (45.52%)
+⏱ AI Coding Time: 4 hrs 40 mins (45.13%)
 
-✍️ 4,919 lines written by AI, 1,039 lines written by hand (82.56% AI-written)
+✍️ 4,283 lines written by AI, 1,028 lines written by hand (80.64% AI-written)
 
-🔤 1,114,503 Input Tokens, 342,567 Output Tokens
+🔤 1,000,580 Input Tokens, 298,268 Output Tokens
 
-💵 $34.72 Estimated AI Cost This Week
+💵 $28.63 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 61 AI Prompts
+🧠 12 AI Sessions, 56 AI Prompts
 
-Opus                     5,066 lines         █████████████████████████   100.00 % 
+Opus                     4,430 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 82.56% of written lines came from AI
-📄 Detailed Prompter — average 591 characters per prompt
+🤖 AI-Driven — 80.64% of written lines came from AI
+📄 Detailed Prompter — average 629 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 41.02% of changed lines were hand-edited
+🚀 High AI Trust — 42.91% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -137,7 +137,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ahheng0813/ahheng0813/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2026 17:17:11 UTC
+ Last Updated on 01/10/2026 03:04:55 UTC
 <!--END_SECTION:waka-->
 <!-- [![wakatime](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io.svg)](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io)
  <figure><embed src="https://wakatime.com/share/@bce690d2-17e6-4840-b85b-f2fa3093c0a8/47755d12-36c4-49ec-89e2-92846b8e1c1d.svg"></embed></figure>
