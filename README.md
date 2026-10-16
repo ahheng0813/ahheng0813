@@ -74,51 +74,50 @@ Sunday                   653 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-JavaScript               9 hrs 6 mins        █████████████████░░░░░░░░   66.84 % 
-Markdown                 1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-C#                       37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-Other                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-XAML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+JavaScript               13 hrs 5 mins       ██████████████████░░░░░░░   72.89 % 
+Markdown                 1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+C#                       37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+Other                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+XAML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 42 mins      █████████████████████░░░░   85.82 % 
-VS Code                  1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Visual Studio            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Claude Code              15 hrs 52 mins      ██████████████████████░░░   88.38 % 
+VS Code                  2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🐱‍💻 Projects: 
-Bantu_IT_Ticket          12 hrs 5 mins       ██████████████████████░░░   88.70 % 
-BantuDashboard           56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-Bantu_DashBoard          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-Bantu2U_Center-Module    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-bantupanduv2             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Bantu_IT_Ticket          16 hrs 33 mins      ███████████████████████░░   92.20 % 
+BantuDashboard           56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+Bantu_DashBoard          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+bantupanduv2             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+APIGateway               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 💻 Operating System: 
-Windows                  13 hrs 38 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 24 mins (90.96%)
+⏱ AI Coding Time: 16 hrs 41 mins (92.93%)
 
-✍️ 17,876 lines written by AI, 208 lines written by hand (98.85% AI-written)
+✍️ 23,614 lines written by AI, 205 lines written by hand (99.14% AI-written)
 
-🔤 5,142,672 Input Tokens, 1,890,155 Output Tokens
+🔤 7,135,267 Input Tokens, 2,455,563 Output Tokens
 
-💵 $154.83 Estimated AI Cost This Week
+💵 $219.32 Estimated AI Cost This Week
 
-🧠 55 AI Sessions, 108 AI Prompts
+🧠 56 AI Sessions, 135 AI Prompts
 
-Opus                     15,577 lines        █████████████████████░░░░   85.37 % 
-Sonnet                   2,669 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+Opus                     21,436 lines        ██████████████████████░░░   88.93 % 
+Sonnet                   2,669 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.85% of written lines came from AI
-📄 Detailed Prompter — average 617 characters per prompt
+🤖 AI-Driven — 99.14% of written lines came from AI
+📄 Detailed Prompter — average 702 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 1.2% of changed lines were hand-edited
+🚀 High AI Trust — 0.88% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -138,7 +137,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ahheng0813/ahheng0813/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2026 16:02:01 UTC
+ Last Updated on 16/10/2026 02:14:00 UTC
 <!--END_SECTION:waka-->
 <!-- [![wakatime](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io.svg)](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io)
  <figure><embed src="https://wakatime.com/share/@bce690d2-17e6-4840-b85b-f2fa3093c0a8/47755d12-36c4-49ec-89e2-92846b8e1c1d.svg"></embed></figure>
