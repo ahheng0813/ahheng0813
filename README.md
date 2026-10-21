@@ -74,49 +74,50 @@ Sunday                   653 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-JavaScript               12 hrs 24 mins      ██████████████████░░░░░░░   70.16 % 
-Python                   1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Markdown                 1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-Other                    49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-CSS                      35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+JavaScript               11 hrs 47 mins      ████████████░░░░░░░░░░░░░   49.74 % 
+Python                   6 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   29.49 % 
+Markdown                 1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+Other                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+CSS                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 
 🔥 Editors: 
-Claude Code              15 hrs 52 mins      ██████████████████████░░░   89.76 % 
-VS Code                  1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Claude Code              21 hrs 19 mins      ██████████████████████░░░   89.98 % 
+VS Code                  2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+Visual Studio            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-Bantu_IT_Ticket          15 hrs 23 mins      ██████████████████████░░░   86.96 % 
-Tackle_farm              1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Web-and-Mobile-Systems-As25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-Bantu_DashBoard          15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-APIGateway               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Bantu_IT_Ticket          14 hrs 12 mins      ███████████████░░░░░░░░░░   59.96 % 
+Tackle_farm              7 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   31.49 % 
+APIGateway               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Web-and-Mobile-Systems-As25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Bantu_DashBoard          24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 💻 Operating System: 
-Windows                  17 hrs 41 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 22 mins (92.58%)
+⏱ AI Coding Time: 21 hrs 54 mins (92.43%)
 
-✍️ 18,752 lines written by AI, 169 lines written by hand (99.11% AI-written)
+✍️ 24,195 lines written by AI, 360 lines written by hand (98.53% AI-written)
 
-🔤 8,496,154 Input Tokens, 2,246,384 Output Tokens
+🔤 9,284,228 Input Tokens, 2,830,079 Output Tokens
 
-💵 $223.83 Estimated AI Cost This Week
+💵 $274.65 Estimated AI Cost This Week
 
-🧠 59 AI Sessions, 128 AI Prompts
+🧠 63 AI Sessions, 140 AI Prompts
 
-Opus                     19,003 lines        █████████████████████████   100.00 % 
+Opus                     24,471 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.11% of written lines came from AI
-📄 Detailed Prompter — average 704 characters per prompt
+🤖 AI-Driven — 98.53% of written lines came from AI
+📄 Detailed Prompter — average 765 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 1.0% of changed lines were hand-edited
+🚀 High AI Trust — 1.61% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -136,7 +137,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ahheng0813/ahheng0813/main/assets/bar_graph.png)
 
 
- Last Updated on 20/10/2026 16:06:11 UTC
+ Last Updated on 21/10/2026 02:31:40 UTC
 <!--END_SECTION:waka-->
 <!-- [![wakatime](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io.svg)](https://wakatime.com/badge/github/ahheng0813/ahheng0813.github.io)
  <figure><embed src="https://wakatime.com/share/@bce690d2-17e6-4840-b85b-f2fa3093c0a8/47755d12-36c4-49ec-89e2-92846b8e1c1d.svg"></embed></figure>
